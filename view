@@ -1,0 +1,27 @@
+This is a simple console-based To-Do List application implemented in C#. The application allows users to add tasks, view existing tasks, and exit the application. It uses a list to store tasks and provides a menu-driven interface for user interaction.
+
+How to Use
+Run the Application:
+
+Compile and run the program using a C# compiler or an integrated development environment (IDE).
+Menu Options:
+
+The application will display a menu with the following options:
+1. Add Task: Allows the user to add a new task to the to-do list.
+2. View Tasks: Displays the existing tasks in the to-do list.
+3. Exit: Exits the application.
+Adding a Task:
+
+Choose option 1, enter the task when prompted, and press Enter.
+The application will confirm the successful addition of the task.
+Viewing Tasks:
+
+Choose option 2 to view the existing tasks in the to-do list.
+If there are no tasks, it will notify the user. Otherwise, it will display the tasks with their corresponding numbers.
+Exiting the Application:
+
+Choose option 3 to exit the application.
+A goodbye message will be displayed.
+Invalid Choices:
+
+If the user enters an invalid choice, the application will display an error message.
